@@ -28,14 +28,41 @@ h3 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-div {
-    border: 1px;
-    width: 100%;
-    height: auto;
-}
 
 #d1 {
-    border: 1px;
+    border: 3px solid black;
     width: 100%px;
-    height: 400px;
+    height: 300gipx;
+}
+#d2 {
+    border: 1px solid red;
+    width: 100%;
+    height: 50;
+}
+#d3 {
+    border: 5px solid rgb(0, 255, 179);
+    width: 100%;
+    height: 50;
+}
+#d1{
+    background-image: url('photo.jpg'); 
+    background-size: cover;
+}
+#d2{
+    background-color:rgb(129, 201, 150);
+}
+#d3{
+    background-color: rgb(194, 161, 226);
+}
+h1{
+    background-color: rgb(167, 150, 150);
+}
+#h1{
+    background-color: rgb(82, 72, 72);
+}
+#h2{
+    background-color: rgb(212, 186, 186);
+ }
+#h3{
+    background-color: rgb(82, 72, 72);
 }
